@@ -278,4 +278,3 @@ Si quieres hacer tu perfil aún más visual, puedes:
 - ✅ ATS (Applicant Tracking Systems)
 
 **Keywords incluidas**: QA Automation, Python, Selenium, API Testing, CI/CD, PyTest, GitHub Actions, ISTQB, Healthcare Tech, Microservices, REST API, PostgreSQL, DevOps, Test Automation, Quality Assurance
-
