@@ -6,27 +6,27 @@
 [![IQVIA](https://img.shields.io/badge/IQVIA-Solutions-orange?style=for-the-badge)](https://www.iqvia.com/)
 [![ISTQB](https://img.shields.io/badge/ISTQB-Certified-green?style=for-the-badge)](https://www.istqb.org/)
 
-**QA Automation Engineer** especializado en **Python, Selenium, API Testing** y **CI/CD**
+**QA Automation Engineer** specialized in **Python, Selenium, API Testing** and **CI/CD**
 
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-Soy **QA Automation Engineer** en **IQVIA**, donde trabajo en soluciones tecnológicas de alto impacto para el sector healthcare. Con más de **2 años de experiencia** en automatización de pruebas, combino habilidades técnicas con una mentalidad de mejora continua y crecimiento personal.
+I'm a **QA Automation Engineer** at **IQVIA**, where I work on high-impact technology solutions for the healthcare sector. With over **2 years of experience** in test automation, I combine technical skills with a mindset of continuous improvement and personal growth.
 
-Mi experiencia incluye:
-- 🧪 **Automatización End-to-End** con Selenium WebDriver + Python
-- 🔌 **API Testing** con PyTest, Requests y frameworks custom
-- 📊 **Testing de Bases de Datos** (PostgreSQL, validación de datos)
-- 🔄 **CI/CD** con GitHub Actions y pipelines automatizados
-- 📝 **Documentación Técnica** y guías QA completas
-- 🤝 **Colaboración Cross-functional** con equipos de desarrollo
+My experience includes:
+- 🧪 **End-to-End Automation** with Selenium WebDriver + Python
+- 🔌 **API Testing** with PyTest, Requests, and custom frameworks
+- 📊 **Database Testing** (PostgreSQL, data validation)
+- 🔄 **CI/CD** with GitHub Actions and automated pipelines
+- 📝 **Technical Documentation** and complete QA guides
+- 🤝 **Cross-functional Collaboration** with development teams
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 ### 🧪 Testing & QA
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,65 +48,65 @@ Mi experiencia incluye:
 - **Testing**: PyTest, Selenium WebDriver, Faker, Requests
 - **API**: FastAPI, REST APIs
 - **Database**: PostgreSQL, SQLite
-- **Web**: Cypress (básico)
-- **Reporting**: pytest-html, HTML reports, logging avanzado
+- **Web**: Cypress (basic)
+- **Reporting**: pytest-html, HTML reports, advanced logging
 
 ---
 
-## 💼 Proyectos Destacados
+## 💼 Featured Projects
 
 ### 🏥 Healthcare Automation Suite
 **Stack**: Python | Selenium | PyTest | GitHub Actions | POM  
-**Cliente**: Bristol-Myers Squibb (BMS)
+**Client**: Bristol-Myers Squibb (BMS)
 
-- ✅ Automatización completa de **UI** (Selenium) y **API** (PyTest + Requests)
-- 🎯 **96.3% success rate** (26/27 tests pasando)
-- 🔄 **CI/CD pipeline** con GitHub Actions (ejecución automática + scheduled tests)
-- 📊 Framework **APIKA** custom para API testing con logging avanzado
-- 📸 Screenshots automáticos en fallos
-- 📈 Reportes HTML detallados con métricas
+- ✅ Complete **UI** (Selenium) and **API** (PyTest + Requests) automation
+- 🎯 **96.3% success rate** (26/27 tests passing)
+- 🔄 **CI/CD pipeline** with GitHub Actions (automatic + scheduled tests)
+- 📊 Custom **APIKA** framework for API testing with advanced logging
+- 📸 Automatic screenshots on failures
+- 📈 Detailed HTML reports with metrics
 
-**Destacado**:
-- Mejoré la cobertura de tests en **20%**
-- Aceleré la ejecución de tests en **80%** con optimizaciones
-- Implementé sistema de logging completo con trazabilidad end-to-end
+**Highlights**:
+- Improved test coverage by **20%**
+- Accelerated test execution by **80%** with optimizations
+- Implemented complete logging system with end-to-end traceability
 
 ### 🦜 TUCAN Platform - People Module QA
 **Stack**: Python | API Testing | PostgreSQL | Microservices  
 
-- 📋 Guía QA completa de **2000+ líneas** con matriz de trazabilidad
-- 🔐 Testing de módulo crítico (PII - Personal Identifiable Information)
-- 🏗️ Validación de arquitectura de **microservicios** (14 repos del ecosistema TUCAN)
-- ✅ Casos de prueba detallados para **14 funcionalidades** principales
-- 📊 Estrategia de pruebas (smoke, regression, integration)
+- 📋 Complete QA guide with **2000+ lines** and traceability matrix
+- 🔐 Critical module testing (PII - Personal Identifiable Information)
+- 🏗️ **Microservices** architecture validation (14 repos in TUCAN ecosystem)
+- ✅ Detailed test cases for **14 main functionalities**
+- 📊 Testing strategy (smoke, regression, integration)
 
 ### 🚀 MDM Datalake API - Automation Framework
 **Stack**: Python | PyTest | PostgreSQL | GitHub Actions | CI/CD
 
-- 🔌 Automatización completa de **API de Datalake**
-- 🔐 Testing de autenticación OAuth2
-- 📊 Validación de **metadatos** de bases de datos
-- 📝 Sistema de **logging avanzado** con análisis de respuestas
-- 🤖 **CI/CD completo** con ejecución programada (viernes 9 AM)
-- 📧 Notificaciones automáticas en fallos
+- 🔌 Complete **Datalake API** automation
+- 🔐 OAuth2 authentication testing
+- 📊 Database **metadata** validation
+- 📝 **Advanced logging** system with response analysis
+- 🤖 **Complete CI/CD** with scheduled execution (Fridays 9 AM)
+- 📧 Automatic notifications on failures
 
 ### 📲 Campaigns WhatsApp UI Automation
 **Stack**: Selenium | Python | PyTest | Page Object Model
 
-- 🎨 Automatización de **UI de campañas** de WhatsApp (Next.js + React)
-- ✅ 4 módulos de testing: texto, media, quick reply, cancelación
-- 📸 Screenshots automáticos en puntos críticos
-- 🏗️ Implementación rigurosa de **Page Object Model**
-- 🔄 Fixtures automáticos para setup/teardown
+- 🎨 WhatsApp **campaigns UI** automation (Next.js + React)
+- ✅ 4 testing modules: text, media, quick reply, cancellation
+- 📸 Automatic screenshots at critical points
+- 🏗️ Rigorous **Page Object Model** implementation
+- 🔄 Automatic fixtures for setup/teardown
 
 ### 🔗 GitHub Toolbox - MCP Integration
 **Stack**: Python | GitHub API | MCP | Cursor IDE
 
-- 🔍 Exploración y análisis de **39 repositorios privados**
-- 🤖 Integración de **Model Context Protocol (MCP)** con Cursor IDE
-- 📊 Scripts Python para análisis de repositorios
-- 🔐 Configuración segura de tokens y autenticación
-- 📈 Dashboard con insights de arquitectura (TUCAN, Insight-D, QA suites)
+- 🔍 Exploration and analysis of **39 private repositories**
+- 🤖 **Model Context Protocol (MCP)** integration with Cursor IDE
+- 📊 Python scripts for repository analysis
+- 🔐 Secure token and authentication configuration
+- 📈 Dashboard with architecture insights (TUCAN, Insight-D, QA suites)
 
 ---
 
@@ -122,38 +122,38 @@ Mi experiencia incluye:
 
 ---
 
-## 🎓 Certificaciones & Formación
+## 🎓 Certifications & Training
 
 - 🎯 **ISTQB Foundation Level** - International Software Testing Qualifications Board
-- 🚀 **Bootcamp QA Automation** - Testing real-world scenarios (transportation & delivery apps)
-- 🎵 **Audio Engineering Background** - Aporta creatividad, precisión y pensamiento analítico
+- 🚀 **QA Automation Bootcamp** - Real-world testing scenarios (transportation & delivery apps)
+- 🎵 **Audio Engineering Background** - Brings creativity, precision, and analytical thinking
 
 ---
 
-## 💡 Filosofía de Trabajo
+## 💡 Work Philosophy
 
 > "Quality is not just about finding bugs — it's about building confidence, enabling teams, and delivering value."
 
-**Mis principios:**
-- 🧠 **Growth Mindset**: Mejora continua diaria (técnica y personal)
-- 🤝 **Collaboration First**: QA es un esfuerzo de equipo
-- 📚 **Documentation Matters**: El código debe ser auto-explicativo
-- 🔍 **Detail-Driven**: La precisión marca la diferencia
-- ❤️ **Empathy in Tech**: Tecnología con corazón humano
+**My principles:**
+- 🧠 **Growth Mindset**: Daily continuous improvement (technical and personal)
+- 🤝 **Collaboration First**: QA is a team effort
+- 📚 **Documentation Matters**: Code should be self-explanatory
+- 🔍 **Detail-Driven**: Precision makes the difference
+- ❤️ **Empathy in Tech**: Technology with human heart
 
 ---
 
-## 🌱 Actualmente Aprendiendo
+## 🌱 Currently Learning
 
-- 🐳 Docker & Containerization para testing environments
-- 🔄 Advanced CI/CD patterns con GitHub Actions
-- 🤖 AI-assisted testing con herramientas como Cursor MCP
-- 🌐 Performance testing con K6/Locust
-- 📊 Test analytics y métricas avanzadas
+- 🐳 Docker & Containerization for testing environments
+- 🔄 Advanced CI/CD patterns with GitHub Actions
+- 🤖 AI-assisted testing with tools like Cursor MCP
+- 🌐 Performance testing with K6/Locust
+- 📊 Test analytics and advanced metrics
 
 ---
 
-## 📫 Conectemos
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Mi experiencia incluye:
 - 🎵 **Audio Engineering background** - Brings unique perspective to QA
 - 🧘‍♂️ Committed to **emotional intelligence** and **self-improvement**
 - 📚 Learning English and improving every day
-- 🎯 **20% test coverage improvement** y **80% faster execution** en proyectos reales
+- 🎯 **20% test coverage improvement** and **80% faster execution** in real projects
 - 💼 Working at **IQVIA** - Improving healthcare through quality tech
 
 ---
