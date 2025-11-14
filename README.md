@@ -1,18 +1,3 @@
-# 🎯 Descripción Profesional para GitHub - Santiago Sánchez
-
-## 📝 Bio Corta (160 caracteres máx para GitHub)
-
-```
-QA Automation Engineer @ IQVIA | Python + Selenium + API Testing | ISTQB | Building quality-driven solutions for healthcare tech
-```
-
-## 📖 README.md para tu perfil (Opcional pero RECOMENDADO)
-
-Para crear un README en tu perfil de GitHub, necesitas crear un repositorio con tu mismo nombre de usuario: `sansaniqvia`
-
-Aquí está el contenido sugerido:
-
-```markdown
 # 👋 Hi, I'm Santiago Sánchez Ospina
 
 <div align="center">
